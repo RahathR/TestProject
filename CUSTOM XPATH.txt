@@ -1,0 +1,21 @@
+//*[contains(text(),"Sweet Death Sauce")]/../..//input[@class='addToCart']
+//*[text()='Home']
+
+
+http://www.toolsqa.com/selenium-webdriver/choosing-effective-xpath/
+
+
+
+driver.findElement(By.xpath("//div[contains(text(),\""+productName+"\")]/../..//input[@type='submit']"));  {to find product}
+
+
+
+
+quantity=driver.findElement(By.id(".//*[@id='productRow4764']//*[@class='quantityInput']"));  
+
+
+
+//*[@class='updateQuantity']-------  update..
+
+
+//*[@class='big-button red-button']------   checking button.
