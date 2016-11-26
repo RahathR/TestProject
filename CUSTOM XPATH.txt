@@ -18,4 +18,6 @@ quantity=driver.findElement(By.id(".//*[@id='productRow4764']//*[@class='quantit
 //*[@class='updateQuantity']-------  update..
 
 
-//*[@class='big-button red-button']------   checking button.(this is just a test)
+//*[@class='big-button red-button']------   checking button.
+
+JUST THE TESTING PART
